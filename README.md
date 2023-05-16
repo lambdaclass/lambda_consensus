@@ -1,4 +1,4 @@
-# lambda_consensus
+# Lambda Consensus
 Ethereum Consensus Client
 
 ## Why?
