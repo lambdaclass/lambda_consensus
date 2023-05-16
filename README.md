@@ -2,4 +2,4 @@
 Ethereum Consensus Client
 
 ### Why?
-Because we're crazy. Oh and also it's because we want to have more Ethereum core devs in Latin America.
+We might seem a bit nuts, right? But hey, we're really just aiming to get a whole lot more Ethereum core devs on board over in Latin America
